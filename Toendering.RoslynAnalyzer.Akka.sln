@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32519.111
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Toendering.RoslynAnalyzer.Akka", "Toendering.RoslynAnalyzer.Akka\Toendering.RoslynAnalyzer.Akka\Toendering.RoslynAnalyzer.Akka.csproj", "{3029119F-A2D0-44EA-91BD-9F53DE969A72}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Toendering.RoslynAnalyzer.Akka.Package", "Toendering.RoslynAnalyzer.Akka\Toendering.RoslynAnalyzer.Akka.Package\Toendering.RoslynAnalyzer.Akka.Package.csproj", "{C45C59A3-7F8C-4A97-87BE-EC9608EBE702}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Toendering.RoslynAnalyzer.Akka.Test", "Toendering.RoslynAnalyzer.Akka\Toendering.RoslynAnalyzer.Akka.Test\Toendering.RoslynAnalyzer.Akka.Test.csproj", "{3661F729-7CE4-4A80-8497-47D6C35B55B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Toendering.RoslynAnalyzer.Akka.Vsix", "Toendering.RoslynAnalyzer.Akka\Toendering.RoslynAnalyzer.Akka.Vsix\Toendering.RoslynAnalyzer.Akka.Vsix.csproj", "{2606DE31-0524-49F9-BF6D-79E857CB6012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3029119F-A2D0-44EA-91BD-9F53DE969A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3029119F-A2D0-44EA-91BD-9F53DE969A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3029119F-A2D0-44EA-91BD-9F53DE969A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3029119F-A2D0-44EA-91BD-9F53DE969A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C45C59A3-7F8C-4A97-87BE-EC9608EBE702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45C59A3-7F8C-4A97-87BE-EC9608EBE702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45C59A3-7F8C-4A97-87BE-EC9608EBE702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45C59A3-7F8C-4A97-87BE-EC9608EBE702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3661F729-7CE4-4A80-8497-47D6C35B55B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3661F729-7CE4-4A80-8497-47D6C35B55B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3661F729-7CE4-4A80-8497-47D6C35B55B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3661F729-7CE4-4A80-8497-47D6C35B55B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2606DE31-0524-49F9-BF6D-79E857CB6012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2606DE31-0524-49F9-BF6D-79E857CB6012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2606DE31-0524-49F9-BF6D-79E857CB6012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2606DE31-0524-49F9-BF6D-79E857CB6012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DFA5282-A927-489F-ADC3-0A247F1B63FE}
+	EndGlobalSection
+EndGlobal
