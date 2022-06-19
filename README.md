@@ -9,3 +9,7 @@ TODO
 
 ### Vistual Studio Extension
 TODO
+
+## Known Issues
+
+* Does not take optional constructor parameters into account 
