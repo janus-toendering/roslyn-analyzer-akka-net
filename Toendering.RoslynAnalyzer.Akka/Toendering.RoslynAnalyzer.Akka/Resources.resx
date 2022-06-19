@@ -118,11 +118,11 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AnalyzerDescription" xml:space="preserve">
-    <value>Props.Create calls must match existing constructor signatures</value>
+    <value>Props.Create calls must match existing constructor signature</value>
     <comment>An optional longer localizable description of the diagnostic.</comment>
   </data>
   <data name="AnalyzerMessageFormat" xml:space="preserve">
-    <value>Props.Create&lt;{0}&gt; parameter list does not match an constructor signature</value>
+    <value>Props.Create&lt;{0}&gt;(...) parameter list does not match any constructor signature</value>
     <comment>The format-able message the diagnostic displays.</comment>
   </data>
   <data name="AnalyzerTitle" xml:space="preserve">

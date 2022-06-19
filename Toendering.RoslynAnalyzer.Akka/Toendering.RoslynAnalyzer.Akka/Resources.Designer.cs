@@ -61,7 +61,7 @@ namespace Toendering.RoslynAnalyzer.Akka {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Props.Create calls must match existing constructor signatures.
+        ///   Looks up a localized string similar to Props.Create calls must match existing constructor signature.
         /// </summary>
         internal static string AnalyzerDescription {
             get {
@@ -70,7 +70,7 @@ namespace Toendering.RoslynAnalyzer.Akka {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Props.Create&lt;{0}&gt; parameter list does not match an constructor signature.
+        ///   Looks up a localized string similar to Props.Create&lt;{0}&gt;(...) parameter list does not match any constructor signature.
         /// </summary>
         internal static string AnalyzerMessageFormat {
             get {
